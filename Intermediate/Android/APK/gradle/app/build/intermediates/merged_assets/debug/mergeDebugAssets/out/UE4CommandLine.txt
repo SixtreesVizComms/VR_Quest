@@ -1,0 +1,1 @@
+../../../acer2/acer2.uproject  /Game/MotionControllerMap -Messaging -SessionId=2B6E246B43D245511457D694C8002CE3 -SessionOwner="Sodac" -SessionName="Launch On Device" -iterative
