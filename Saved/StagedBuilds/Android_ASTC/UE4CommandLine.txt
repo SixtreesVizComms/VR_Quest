@@ -1,1 +1,1 @@
-../../../acer2/acer2.uproject  /Game/VirtualRealityBP/Maps/MotionControllerMap -Messaging -SessionId=B5237C0A4E3709302DDCDB8FB8A82F1D -SessionOwner="Sodac" -SessionName="Launch On Device" -iterative
+../../../testVRroom/testVRroom.uproject  /Game/VirtualRealityBP/Maps/MotionControllerMap -Messaging -SessionId=8A38B0BD421B3556ECE2799FA1C29D21 -SessionOwner="Sodac" -SessionName="Launch On Device" -iterative
